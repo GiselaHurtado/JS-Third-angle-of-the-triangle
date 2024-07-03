@@ -1,0 +1,22 @@
+{
+  "name": "js-third-angle-of-the-triangle",
+  "version": "1.0.0",
+  "description": "Instrucciones: Dado dos ángulos interiores de un triangulo en grados. Escribe una función que devuelva el tercer ángulo.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiselaHurtado/JS-Third-angle-of-the-triangle.git"
+  },
+  "author": "Gisela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiselaHurtado/JS-Third-angle-of-the-triangle/issues"
+  },
+  "homepage": "https://github.com/GiselaHurtado/JS-Third-angle-of-the-triangle#readme",
+  "devDependencies": {
+    "vitest": "^1.6.0"
+  }
+}
